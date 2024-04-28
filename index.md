@@ -4,11 +4,10 @@ title: Home
 
 # Who am I?
 
-I'm a Software Engineer with a bachelors degree in Robotics and Computer Science from
+I'm a Software Engineer and Software Security Researcher with a bachelors degree in Robotics and Computer Science from
 Worcester Polytechnic Institute [(WPI)](https://www.wpi.edu/).
 
-I'm currently working for Plexxi Inc. which has just been acquired by
-Hewlett Packard Enterprise (HPE).
+I was honnored to be the first ever [Dan Kaminsky Fellow](https://www.darkreading.com/cyber-risk/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh).
 
 I love Robots, well designed and tested code, surfing, & video gaming.
 
