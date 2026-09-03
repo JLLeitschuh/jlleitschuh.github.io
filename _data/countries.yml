@@ -1,0 +1,40 @@
+# Countries I've visited & want to visit.
+# Edit these lists any time - just use the plain English country name.
+# The countries.md page reads this file directly to build the lists and highlight the globe.
+
+visited:
+  - United States
+  - Canada
+  - Italy
+  - Greece
+  - Malta
+  - Vatican City
+  - France
+  - Monaco
+  - Peru
+  - Switzerland
+  - Denmark
+  - Sweden
+  - Norway
+  - Spain
+  - Japan
+  - Dominican Republic
+  - Poland
+  - Czech Republic
+  - Austria
+  - Germany
+  - Costa Rica
+  - Brazil
+  - Panama
+  - Mexico
+
+wishlist:
+ - New Zealand
+ - Australia
+ - India
+ - Nepal
+ - China
+ - South Korea
+ - Vietnam
+ - Thailand
+ - Singapore

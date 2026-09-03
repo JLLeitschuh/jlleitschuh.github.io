@@ -1,0 +1,23 @@
+#globeViz {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  margin-bottom: 2em;
+  overflow: hidden;
+}
+.countries-columns {
+  display: flex;
+  gap: 3em;
+  flex-wrap: wrap;
+}
+.countries-column {
+  flex: 1;
+  min-width: 200px;
+}
+.countries-column ul {
+  list-style: none;
+  padding-left: 0;
+}
+.countries-column li {
+  padding: 2px 0;
+}

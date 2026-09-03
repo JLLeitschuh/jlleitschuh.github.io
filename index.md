@@ -17,3 +17,4 @@ If you'd like to get in touch, the best way is to DM me on X [@JLLeitschuh](http
 I have a love of sailing, surfing, skiing, & video gaming. I've been capturing some resources for those personal projects below:
 
  - [Sailing Resources](/sailing.md)
+ - [Countries Visited](/countries.md)
